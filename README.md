@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayaschroder00
-- 👀 I’m interested in international relations research with an emphasis on the political economy of security and international financial institutions.
+- 👀 I’m interested in international relations research with an emphasis on the political economy of security, authoritarian regimes, and international financial institutions.
 - 💞️ I’m looking to collaborate on any research projects involving international political economy and data visualizations.
 - 📫 How to reach me: mayaschroder@gmail.com 
 
